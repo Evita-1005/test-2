@@ -1,4 +1,4 @@
-# Spēle - Uzmini skaitli
+# Spēle - "Uzmini skaitli!"
 
 import random
 
