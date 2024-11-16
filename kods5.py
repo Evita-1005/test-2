@@ -1,4 +1,4 @@
-#Teksta analize
+#Teksta analize.
 
 
 def main():
