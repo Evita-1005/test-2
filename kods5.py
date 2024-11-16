@@ -1,4 +1,6 @@
-Šeit būs 5.kods
+#Teksta analize.
+
+
 def main():
     my_text = input("Ievadiet tekstu: \n")
     print(f"\nSimbolu skaits (bez atstarpēm): {count_characters_without_spaces(my_text)}")
