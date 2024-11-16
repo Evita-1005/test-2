@@ -1,1 +1,3 @@
 teksta fails
+
+otra rindiņa
