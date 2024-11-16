@@ -1,3 +1,5 @@
+#Kvadrata laukums
+
 import random
 def main():
     mala = float(input"Ievadiet kvadrāta malas garumu: ")
