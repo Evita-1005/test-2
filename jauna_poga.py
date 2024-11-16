@@ -1,0 +1,1 @@
+Jaunas pogas iespēja
