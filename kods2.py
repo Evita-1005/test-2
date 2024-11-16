@@ -1,9 +1,7 @@
 
 """
 Lietotājam jāmin gadījuma skaitlis no 1 līdz 10. Dots ierobežots mēģinājumu skaits 3. 
-Ja lietotājs uzmin skaitli, spēle informē par uzvaru, pretējā gadījumā, ja mēģinājumi beigušies, spēle informē par zaudējumu.
-
-lai redzētu, kāds ir random sakaitlis pēc 0 rindas raksta print(f"{rnd=}")
+Ja uzmin skaitli, spēle informē par uzvaru. Pretējā gadījumā vai ja mēģinājumi beigušies, informē par zaudējumu.
 
 """
 
