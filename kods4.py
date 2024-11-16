@@ -1,3 +1,5 @@
+# Spēle - Uzmini skaitli
+
 import random
 
 def main():
