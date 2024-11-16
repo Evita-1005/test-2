@@ -1,3 +1,5 @@
+# kvadrata laukuma aprēķināšanai
+
 import random
 def main():
     mala = float(input"Ievadiet kvadrāta malas garumu: ")
