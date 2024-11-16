@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# kvadrata laukuma aprēķināšanai
+=======
 #Kvadrata laukums
+>>>>>>> 0.1.0
 
 import random
 def main():
